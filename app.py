@@ -17,7 +17,6 @@ st.markdown('<p style="text-align:center;color:#555">Sistema de contagem para pr
 st.divider()
 
 with st.sidebar:
-    st.image('residencia.png', width=200)
     st.divider()
     st.header('Configuracoes')
     sensibilidade = st.slider('Sensibilidade', 0.5, 3.0, 1.0, 0.1)
