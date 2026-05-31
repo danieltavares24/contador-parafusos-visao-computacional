@@ -169,7 +169,7 @@ with aba2:
             legend_title='Metodo')
         st.plotly_chart(fig3, use_container_width=True)
         st.divider()
-        st.markdown('#### Historico Completo')
+        st.markdown('#### Histórico Completo')
         st.dataframe(df, use_container_width=True)
         if st.button('Limpar historico'):
             st.session_state.historico = []
