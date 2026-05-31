@@ -11,8 +11,8 @@ st.set_page_config(page_title='Contador de Parafusos', page_icon='🔩', layout=
 if 'historico' not in st.session_state:
     st.session_state.historico = []
 
-st.image('residencia.png', width=500)
-st.markdown('<h1 style="text-align:center">🔩 Contador de Parafusos</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;color:#1a1a2e">Contador de Parafusos</h1>', unsafe_allow_html=True)
+st.markdown('<p style="text-align:center;color:#555">Sistema de contagem para processo de picking industrial</p>', unsafe_allow_html=True)
 st.markdown('<p style="text-align:center;color:#555">Sistema de contagem para processo de picking industrial</p>', unsafe_allow_html=True)
 st.divider()
 
