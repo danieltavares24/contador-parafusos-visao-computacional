@@ -1,6 +1,8 @@
-# Contador de Parafusos — Desafio 1
+# Contador de Parafusos 
 
-Sistema automático de contagem de parafusos para o processo de picking industrial, desenvolvido com visão computacional clássica em Python.
+Sistema automático de contagem de parafusos para picking industrial com visão computacional clássica em Python.
+
+Desenvolvido como parte do Programa de Residência em IA — UNISENAI 2026.
 
 **Autor:** Daniel Tavares de França  
 **Programa:** Residência em Inteligência Artificial   
