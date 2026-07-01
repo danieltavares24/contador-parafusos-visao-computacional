@@ -101,4 +101,4 @@ plotly
 
 ---
 
-© 2026 Daniel Tavares de França | Inteligência Artificial Industrial
+© 2026 Daniel Tavares de França | Visão Computacional & IA
