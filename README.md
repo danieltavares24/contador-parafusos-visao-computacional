@@ -7,7 +7,7 @@ Desenvolvido como projeto prático do Bootcamp de Ciência de Dados
 e IA — SENAI/SC 2026.
 
 **Autor:** Daniel Tavares de França  
-**Programa:** Residência em Inteligência Artificial   
+**Programa:**  Bootcamp de Ciência de Dados e IA  
 **Data:** Maio de 2026
 
 ---
